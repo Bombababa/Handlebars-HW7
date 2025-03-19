@@ -1,0 +1,27 @@
+{
+  "name": "handlebars-hw7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bombababa/Handlebars-HW7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bombababa/Handlebars-HW7/issues"
+  },
+  "homepage": "https://github.com/Bombababa/Handlebars-HW7#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
+}
